@@ -1,0 +1,1 @@
+var stream = $("div[idˆ='feed_stream']")
